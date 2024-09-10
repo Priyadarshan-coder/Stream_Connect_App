@@ -21,6 +21,10 @@ https://github.com/user-attachments/assets/902d64d7-8d0d-4b73-bce9-bede16b72751
 
 
 
+##UML Diagram
+
+![Screenshot 2024-09-10 154526](https://github.com/user-attachments/assets/0d320ffe-bb05-49c4-bc83-9d96fe278b8c)
+
 
 
 ## Authors
