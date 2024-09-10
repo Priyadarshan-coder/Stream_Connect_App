@@ -103,12 +103,6 @@ npm run dev
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express 
-
-# Tech Stack
-
 - ReactJs
 - Redux
 - NodeJS
