@@ -12,6 +12,17 @@ StreamConnect is a powerful video streaming application designed with modern tec
 - State Management: Efficient state handling using Redux, ensuring smooth data flow and interactions.
 - Scalable Backend: A fault-tolerant, scalable backend powered by Apache Kafka and PostgreSQL.
 - Database: Robust data management with PostgreSQL and Prisma ORM.
+
+
+https://github.com/user-attachments/assets/902d64d7-8d0d-4b73-bce9-bede16b72751
+
+
+
+
+
+
+
+
 ## Authors
 
 - [@priyadarshan](https://www.github.com/Priyadarshan-coder)
