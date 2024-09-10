@@ -61,6 +61,7 @@ To run this project, you will need to add the following environment variables to
 
 - User sign in and sign up
 - Watch videos at different video quality
+- Search by title
 - Like
 - Dislike
 - Comment
